@@ -22,10 +22,7 @@ li {
   margin: 0;
   padding: 0;
 }
-/*.container {
-  max-width: 900px;
-  margin: 0 auto;
-}*/
+
 pre[class*="language-"] > code[data-language] {
   overflow: auto !important;
 }
